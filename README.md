@@ -1,4 +1,4 @@
-<h1>On-premises Set A Remote Desktops DNS Settings To A DC’s Private IP address
+<h1>Set A Remote Desktops DNS Settings To A DC’s Private IP address
 </p>
 
 <h2>Environments and Technologies Used</h2>
