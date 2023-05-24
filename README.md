@@ -1,5 +1,7 @@
-<h1>Set A Remote Desktops DNS Settings To A DC’s Private IP address
+<h1>Set A Remote Desktops DNS Settings To A DC’s Private IP Address
 </p>
+
+This SOP shows how to enable ICMPv4 on your local Windows Firewall.<br />
 
 <h2>Environments and Technologies Used</h2>
 
