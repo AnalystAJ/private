@@ -24,10 +24,18 @@
 <img src="https://imgur.com/bbUQqsd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-[<p>
+<p>
 <img src="https://imgur.com/GF5JnJ8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-[<p>
+<p>
 <img src="https://imgur.com/sdUqqyF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://imgur.com/61zbjsl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://imgur.com/4z8DoAZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
