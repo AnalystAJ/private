@@ -21,9 +21,13 @@
 <br />
 
 <p>
+<img src="https://imgur.com/bbUQqsd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+[<p>
 <img src="https://imgur.com/GF5JnJ8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+[<p>
+<img src="https://imgur.com/sdUqqyF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
